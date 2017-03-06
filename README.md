@@ -1,3 +1,2 @@
 # gitskiils
-new branch
-new branch
+pull merge  push
