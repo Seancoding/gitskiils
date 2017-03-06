@@ -1,3 +1,3 @@
 # gitskiils
 pull merge  push
-remote
+local
