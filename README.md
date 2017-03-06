@@ -1,1 +1,2 @@
 # gitskiils
+pull merge  push
