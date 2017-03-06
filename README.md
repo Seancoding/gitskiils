@@ -1,3 +1,3 @@
 # gitskiils
 new branch
-master
+new branch
