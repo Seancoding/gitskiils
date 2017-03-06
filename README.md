@@ -1,3 +1,3 @@
 # gitskiils
 pull merge  push
-before pull
+after pull
